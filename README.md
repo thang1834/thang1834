@@ -6,6 +6,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Spring-Boot-282C34?logo=Spring-Boot&logoColor=#6DB33F" alt="Spring Boot logo" title="Spring-Boot" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-Sharp-282C34?logo=C-Sharp&logoColor=#239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
