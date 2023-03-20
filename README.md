@@ -60,4 +60,3 @@
 <a href="#" target="_blank">
   <img src="svg/thang1834-quotes.svg" width="846" height="150" alt="thang1834" />
 </a>
-
