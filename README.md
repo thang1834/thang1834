@@ -64,6 +64,6 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+![Quote]![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
