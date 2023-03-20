@@ -70,9 +70,9 @@
 </div>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<!-- <br>
+<br>
 <a href="#" target="_blank">
   <img src="svg/thang1834-quotes.svg" width="846" height="150" alt="thang1834" />
-</a> -->
+</a>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
