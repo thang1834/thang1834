@@ -20,8 +20,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft-SQL-Server-282C34?logo=Microsoft-SQL-Server&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
