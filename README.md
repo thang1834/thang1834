@@ -1,6 +1,6 @@
 <!-- Thang1834 -->
 <a href="#" target="_blank">
-  <img src="svg/thang1834.svg.svg" width="1200" alt="thang1834-official" />
+  <img src="svg/thang1834.svg" width="1200" alt="thang1834-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
