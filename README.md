@@ -36,7 +36,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=IntelliJ-IDEA&logoColor=#000000" alt="IntelliJ IDEA Code logo" title="IntelliJ IDEA" height="25" /></span>
+<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=IntelliJ-IDEA&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -68,7 +70,9 @@
 </div>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+<!-- <br>
 <a href="#" target="_blank">
   <img src="svg/thang1834-quotes.svg" width="846" height="150" alt="thang1834" />
-</a>
+</a> -->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
