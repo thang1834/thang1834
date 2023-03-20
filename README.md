@@ -6,9 +6,9 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=Spring%20Boot&logoColor=#6DB33F" alt="Spring Boot logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Spring-Boot-282C34?logo=Spring-Boot&logoColor=#6DB33F" alt="Spring Boot logo" title="Spring-Boot" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=C%20Sharp&logoColor=#239120" alt="C Sharp logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-Sharp-282C34?logo=C-Sharp&logoColor=#239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -18,11 +18,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft-SQL-Server-282C34?logo=Microsoft-SQL-Server&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft-SQL-Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=IntelliJ-IDEA&logoColor=#000000" alt="IntelliJ IDEA Code logo" title="IntelliJ IDEA" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
