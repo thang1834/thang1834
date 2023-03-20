@@ -56,14 +56,7 @@
 </div>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<!-- <br>
+<br>
 <a href="#" target="_blank">
   <img src="svg/thang1834-quotes.svg" width="846" height="150" alt="thang1834" />
-</a> -->
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote]![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
+</a>
