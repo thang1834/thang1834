@@ -18,6 +18,8 @@ I'm a software developer passionate about building applications and constantly l
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A)
 
 #### 🚀 Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F&labelColor=05122A)
+![Chi](https://img.shields.io/badge/-Chi-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=05122A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=05122A)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&labelColor=05122A)
