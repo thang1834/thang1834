@@ -13,75 +13,54 @@
   </a>
 </div>
 
-<!-- ```typescript
-const thang = {
-    pronouns: "He" | "Him",
-    location: "PhuTho, Vietnam 🇻🇳",
-    code: ["Java", "Go", "Python", "TypeScript", "JavaScript"],
-    askMeAbout: ["web dev", "tech", "system design", "cloud architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue.js", "Nuxt.js", "Three.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            java: ["Spring Boot"],
-            go: ["Chi"],
-            python: ["FastAPI", "Django"],
-            js: ["Node.js", "Express"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MSSQL", "Elasticsearch", "Firebase"],
-        devOps: ["Docker", "Git", "Cloudflare"],
-        testing: ["Playwright", "Selenium", "Jest", "Pytest", "JUnit"]
-    },
-    currentFocus: "Deep diving into AI integration & Cloud Architecture",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-``` -->
-
 <hr />
 
 <h3>🛠️ My Tech Stack</h3>
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1; min-width: 300px; padding: 10px;" align="left">
-      <h4>🌐 Languages</h4>
-      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A" height="24" />
-      <br/><br/>
-      <h4>🗄️ Databases</h4>
-      <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=316192&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&labelColor=05122A" height="24" />
-      <br/><br/>
-      <h4>🧪 Testing</h4>
-      <img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=2EAD33&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=43B02A&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest&logoColor=0A9EDC&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162&labelColor=05122A" height="24" />
-    </div>
-    <div style="flex: 1; min-width: 300px; padding: 10px;" align="left">
-      <h4>🚀 Frameworks & Tools</h4>
-      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net&logoColor=5C2D91&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js&logoColor=white&labelColor=05122A" height="24" />
-      <br/><br/>
-      <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare&logoColor=F38020&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032&labelColor=05122A" height="24" />
-      <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37&labelColor=05122A" height="24" />
-    </div>
-  </div>
+<div align="left">
+  <h4>🌐 Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A" height="24" />
+  </p>
+
+  <h4>� Frameworks & Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net&logoColor=5C2D91&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js&logoColor=white&labelColor=05122A" height="24" />
+  </p>
+
+  <h4>🗄️ Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=316192&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&labelColor=05122A" height="24" />
+  </p>
+
+  <h4>☁️ Cloud & DevOps</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare&logoColor=F38020&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37&labelColor=05122A" height="24" />
+  </p>
+
+  <h4>🧪 Testing</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=2EAD33&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=43B02A&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest&logoColor=0A9EDC&labelColor=05122A" height="24" />
+    <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162&labelColor=05122A" height="24" />
+  </p>
 </div>
 
 <hr />
