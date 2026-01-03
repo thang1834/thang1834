@@ -50,10 +50,24 @@ I'm a software developer passionate about building applications and constantly l
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true)
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
+</div>
 
 ---
 
@@ -64,4 +78,8 @@ I'm a software developer passionate about building applications and constantly l
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=600&height=30&lines=Thanks+for+visiting!+Feel+free+to+reach+out+to+collaborate.)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=600&height=30&lines=Thanks+for+visiting!+Feel+free+to+reach+out+to+collaborate." alt="Typing SVG" />
+  </a>
+</div>
