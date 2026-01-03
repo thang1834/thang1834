@@ -39,6 +39,7 @@ const thang = {
 };
 ``` -->
 
+<hr />
 
 <h3>🛠️ My Tech Stack</h3>
 
@@ -83,6 +84,7 @@ const thang = {
   </div>
 </div>
 
+<hr />
 
 <h3>📊 GitHub Stats</h3>
 <div align="center">
@@ -95,6 +97,8 @@ const thang = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
 </div>
+
+<hr />
 
 <h3>💰 Support Me</h3>
 <div align="left">
