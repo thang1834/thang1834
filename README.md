@@ -1,78 +1,112 @@
-<!-- Thang1834 -->
-<a href="#" target="_blank">
-  <img src="svg/thang1834.svg" width="1200" alt="thang1834" />
-</a>
+<div align="left">
+  <h1>👋 Hi there! I'm Thang</h1>
+</div>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=ED8B00" alt="Java logo" title="Java" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Spring-Boot-282C34?logo=Spring-Boot&logoColor=#6DB33F" alt="Spring Boot logo" title="Spring-Boot" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C-Sharp-282C34?logo=C-Sharp&logoColor=#239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JWT-282C34?logo=JWT&logoColor=#000000" alt="JWT logo" title="JWT" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=Thymeleaf&logoColor=#005C0F" alt="Thymeleaf logo" title="Thymeleaf" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-282C34?logo=Microsoft%20SQL%20Sever&logoColor=CC2927" alt="Microsoft%20SQL%20Sever logo" title="Microsoft%20SQL%20Sever" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/heroku-282C34?logo=heroku&logoColor=430098" alt="heroku logo" title="heroku" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS-282C34?logo=AWS&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ-IDEA-282C34?logo=IntelliJ-IDEA&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
-&nbsp;
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Thang1834">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thang1834&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Thang1834">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thang1834&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+<h3>👨🏻‍💻 About Me</h3>
+<p>
+  I'm a software developer passionate about building applications and constantly learning new technologies. My journey is defined by a <b>"learning-by-doing"</b> mindset, where I prioritize adaptability and practical problem-solving as my core strengths.
+</p>
+
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&multiline=true&width=844&height=155&lines=%F0%9F%92%A1+I+like+to+explore+new+technologies+and+develop+software+solutions.;%F0%9F%8C%B1+On+track+for+deep+diving+into+AI+integration%2C+Systems+Design+and+Cloud+Architecture.;%F0%9F%91%AF+Seeking+complex+projects+that+push+my+boundaries+and+expose+me+to+new+domains.;%F0%9F%92%AC+Open+for+contributing+to+tech+communities." alt="Typing SVG" />
   </a>
 </div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
+<!-- <p>
+  💡 I like to explore new technologies and develop software solutions.<br/>
+  🌱 On track for deep diving into AI integration, Systems Design, and Cloud Architecture.<br/>
+  👯 Seeking complex projects that push my boundaries and expose me to new domains.<br/>
+  💬 Open for contributing to tech communities.<br/>
+  📄 Check out my <a href="https://www.nguyenducthang.com/resume.html">Résumé</a>.
+</p> -->
+
+<hr />
+
+<h3>💻 My Tech Stack</h3>
+
 <div align="center">
-  <a href="https://facebook.com/wonwolf1834" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thang1834-facebook" />
+<table width="100%" border="0">
+  <tr>
+    <td width="48%" valign="top">
+      <h4>🌐 Languages</h4>
+      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A" height="24" />
+      <br/><br/>
+      <h4>🗄️ Databases</h4>
+      <img src="https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=316192&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&labelColor=05122A" height="24" />
+      <br/><br/>
+      <h4>🧪 Testing</h4>
+      <img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&logoColor=2EAD33&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=43B02A&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest&logoColor=0A9EDC&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162&labelColor=05122A" height="24" />
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <h4>🚀 Frameworks & Tools</h4>
+      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&logoColor=00DC82&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net&logoColor=5C2D91&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js&logoColor=white&labelColor=05122A" height="24" />
+      <br/><br/>
+      <h4>☁️ Cloud & DevOps</h4>
+      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare&logoColor=F38020&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032&labelColor=05122A" height="24" />
+      <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37&labelColor=05122A" height="24" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<hr />
+
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=false" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
+</div>
+
+<hr />
+
+<h3>💰 Support Me</h3>
+<div align="left">
+  <a href="https://paypal.me/wonwolf1834">
+    <img src="https://img.shields.io/badge/-PayPal-05122A?style=flat&logo=paypal&logoColor=00457C&labelColor=05122A" alt="PayPal" height="24" />
   </a>
-  <a href="https://www.instagram.com/st.w15" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thang1834-instagram" />
-  </a>
-  <a href="mailto:ducthang01052002@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thang1834-email" />
+  <a href="https://buymeacoffee.com/wonwolf1834">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-05122A?style=flat&logo=buy-me-a-coffee&logoColor=FFDD00&labelColor=05122A" alt="BuyMeACoffee" height="24" />
   </a>
 </div>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/thang1834-quotes.svg" width="846" height="150" alt="thang1834" />
-</a>
 
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=600&height=30&lines=Thanks+for+visiting!+Feel+free+to+reach+out+to+collaborate." alt="Typing SVG" />
+  </a>
+</div>
