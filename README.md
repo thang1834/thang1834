@@ -26,7 +26,7 @@
 <h3>💻 My Tech Stack</h3>
 
 <div align="center">
-<table width="100%" border="0">
+<table width="100%">
   <tr>
     <td width="48%" valign="top">
       <h4>🌐 Languages</h4>
@@ -73,7 +73,7 @@
 
 <h3>📊 GitHub Stats</h3>
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="50%" align="center" valign="top">
         <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=false" />
