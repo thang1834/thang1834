@@ -50,20 +50,10 @@ I'm a software developer passionate about building applications and constantly l
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
+<p align="center">
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true" width="49%" />
+  <img align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true" width="49%" />
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
