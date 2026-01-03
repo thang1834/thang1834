@@ -13,22 +13,39 @@
   </a>
 </div>
 
-<!-- <p>
-  💡 I like to explore new technologies and develop software solutions.<br/>
-  🌱 On track for deep diving into AI integration, Systems Design, and Cloud Architecture.<br/>
-  👯 Seeking complex projects that push my boundaries and expose me to new domains.<br/>
-  💬 Open for contributing to tech communities.<br/>
-  📄 Check out my <a href="https://www.nguyenducthang.com/resume.html">Résumé</a>.
-</p> -->
+```typescript
+const thang = {
+    pronouns: "He" | "Him",
+    location: "PhuTho, Vietnam 🇻🇳",
+    code: ["Java", "Go", "Python", "TypeScript", "JavaScript"],
+    askMeAbout: ["web dev", "tech", "system design", "cloud architecture"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue.js", "Nuxt.js", "Three.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            java: ["Spring Boot"],
+            go: ["Chi"],
+            python: ["FastAPI", "Django"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["PostgreSQL", "MySQL", "MSSQL", "Elasticsearch", "Firebase"],
+        devOps: ["Docker", "Git", "Cloudflare"],
+        testing: ["Playwright", "Selenium", "Jest", "Pytest", "JUnit"]
+    },
+    currentFocus: "Deep diving into AI integration & Cloud Architecture",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
 <hr />
 
-<h3>💻 My Tech Stack</h3>
+<h3>🛠️ My Tech Stack</h3>
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="48%" valign="top">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="flex: 1; min-width: 300px; padding: 10px;" align="left">
       <h4>🌐 Languages</h4>
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8&labelColor=05122A" height="24" />
@@ -49,9 +66,8 @@
       <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest&logoColor=0A9EDC&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162&labelColor=05122A" height="24" />
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
+    </div>
+    <div style="flex: 1; min-width: 300px; padding: 10px;" align="left">
       <h4>🚀 Frameworks & Tools</h4>
       <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=05122A" height="24" />
@@ -64,25 +80,16 @@
       <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=Cloudflare&logoColor=F38020&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032&labelColor=05122A" height="24" />
       <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37&labelColor=05122A" height="24" />
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
 </div>
 
 <hr />
 
 <h3>📊 GitHub Stats</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=false" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=false" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thang1834&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thang1834&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <br/>
