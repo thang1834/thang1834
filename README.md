@@ -16,6 +16,8 @@ I'm a software developer passionate about building applications and constantly l
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=05122A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC&labelColor=05122A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC&labelColor=05122A)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120&labelColor=05122A)
 
 #### 🚀 Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F&labelColor=05122A)
@@ -32,6 +34,7 @@ I'm a software developer passionate about building applications and constantly l
 ![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927&labelColor=05122A)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571&labelColor=05122A)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&labelColor=05122A)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase&logoColor=3ECF8E&labelColor=05122A)
 
 #### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED&labelColor=05122A)
