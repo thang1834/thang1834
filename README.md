@@ -62,7 +62,7 @@ I'm a software developer passionate about building applications and constantly l
   <img src="https://komarev.com/ghpvc/?username=thang1834&label=PROFILE+VIEWS&color=05122A&style=flat&edge_flat=true" alt="Profile Views" />
 </div>
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thang1834/thang1834/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thang1834/thang1834/output/github-snake.svg">
